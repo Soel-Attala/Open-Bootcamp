@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0cacce4-2214-4d8d-b1d7-d33509154203" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Clase 4.1-Condicionales/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Clase 4.1-Condicionales/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Clase 4.1-Condicionales/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Clase 4.1-Condicionales/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Clase 4.1-Condicionales/Clase 4.1-Condicionales.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Clase 4.1-Condicionales/out/production/Clase 4.1-Condicionales/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Clase 4.1-Condicionales/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f0cacce4-2214-4d8d-b1d7-d33509154203" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,13 +16,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Usuario/Desktop/Programación/Open-Bootcamp/Introduccion a la Programacion/Clases/Clase-4/out/production"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/Programación/Open-Bootcamp/Introduccion a la Programacion/Clases/Clase-4/out/production&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
