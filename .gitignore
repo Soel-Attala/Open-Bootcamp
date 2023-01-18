@@ -1,0 +1,13 @@
+# ignoramos lo de intelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+
+#de visual studio
+
+.vscode/
+.vs
+
+
