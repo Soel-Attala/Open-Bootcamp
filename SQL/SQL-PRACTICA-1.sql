@@ -184,6 +184,9 @@ VALUES (False, 'Luciano Gasparini', 'gasparinilg@gmail.com', 'M', '1995-10-30',6
 INSERT INTO employees_2021(Married, Name, E_Mail, Genre, Birth_Date, Salary) 
 VALUES (False, 'Luciano Gasparini', 'gasparinilg3@gmail.com', 'M', '1995-10-30',-6230.25);
 
+-- SI QUEREMOS CREAR UNA BASE DE DATOS USAMOS EL COMANDO: CREATE DATABASE + nombre de la base de datos.
+-- PARA BORRAR LA BASE DE DATOS: DROP DATABASE + nombre de lo que queremos borrar.
+
 --show data
 SELECT * FROM employees_2021;
 --Dlete table:
