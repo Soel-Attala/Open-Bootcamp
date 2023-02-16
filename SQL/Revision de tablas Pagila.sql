@@ -58,3 +58,26 @@ SELECT * FROM film_actor WHERE actor_id =1;
 --asi podemos ver que el actor con id uno tiene muchas peliculas hechas, y la pelicula con id 1 tiene muchos actores.
 
 SELECT*FROM film;
+
+SELECT * FROM film WHERE description LIKE '%Drama%';
+--Filtramos todas las descripciones que tengan la palabra drama
+
+SELECT * FROM payment;
+--esta es la tabla mas importante, ya que relaciona pago, cliente, pesonal, renta y cantidad.
+
+-- insertar datos en actor
+SELECT * FROM actor;
+
+INSERT INTO actor(first_name, last_name) VALUES ('Jonny', 'Deep');
+
+
+SELECT * FROM customer;
+SELECT * FROM address;
+SELECT * FROM store;
+
+INSERT INTO address (address, district, city_id, postal_code, phone)
+VALUES ('El Moro 315','Rama Caída', 500, 'M5600','260430603212');
+
+INSERT INTO customer (store_id, first_name, last_name, email, address_id, activebool, create_date)
+VALUES (1, 'Sergio', 'Binder', 'randomcustomer@gmail.com',606, TRUE, '2023-02-09');
+
