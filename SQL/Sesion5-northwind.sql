@@ -121,7 +121,8 @@ group by e.first_name, e.last_name
 order by num_orders desc
 
 select * from num_orders_by_employee;
-
+-- las vistas nos permiten guardar consultas, para poder llamarlas nuevamente. Es similar a cuando en programacion
+-- guardamos una variable asignandole un nombre.
 /*
 vistas materializadas
 
@@ -133,7 +134,9 @@ CREATE MATERIALIZED VIEW [IF NOT EXISTS] view_name AS
 query
 WITH [NO] DATA;
 */
-
+--usando el comando create materialized view (mv_num_orders_by_employee)as y luego pegamos 
+--la consulta que queremos guardar y por ultimo agregamos with data. lo que esta dentro del parentesis es el etiquetado que queremos darle
+--es decir llamamos a la consulta con un select * from mv_num_order_by_employee
 create materialized view mv_num_orders_by_employee as
 select e.first_name, e.last_name, count(o.order_id) as num_orders  from orders o 
 inner join employees e on o.employee_id = e.employee_id
@@ -176,11 +179,15 @@ select * from generate_series(
 /*
  EXPLAIN ANALYZE 
  permite mostrar el query planner y ver los tiempos: 
+ esto nos deja ver la informacion de toda la consulta, el tiempo que demora, y lo que toma en cuenta postgres
+ desde la memoria, al tiempo.
  */
 
 EXPLAIN ANALYZE select * from order_details where unit_price < 9;
 create index idx_order_details_unit_price on order_details(unit_price) where unit_price < 10;
-
+--podemos crear indices adaptados a una consulta en particular, por ejemplo, aqui agregamos el filtro,
+--que estamos usando en el explain, para optimizar aun mas ese indice, es decir, ese indice aplicara solo
+--a las unidades que cumplan unit_price < 10
 EXPLAIN ANALYZE select * from num_orders_by_employee;
 EXPLAIN ANALYZE select * from orders;
 
@@ -197,18 +204,27 @@ create index idx_example_pk on example(id);
 
 EXPLAIN ANALYZE select * from example WHERE id = 456777;
 
+--cuando creamos el indice se reduce el tiempo de 55ms a 0.041ms
+
 
 /*
 Particionamiento de tablas
 Técnica que permite dividir una misma tabla en múltiples particiones con el objetivo de optimizar las consultas
+esto se usa cuando tenemos tablas muy grandes, con muchos registros.
+se divide la tabla en varias partes en base a criterios, por ejemplo fechas, paises o categorias.
+de esta forma los escaneos se hacen en la particion que buscamos y asi optimizamos la consulta.
 
 Hay tres tipos:
-- Rango
-- Lista
-- Hash
+- Rango: se define un rango de valores, en el caso del ejemplo es en base a la fecha, hay que tener en cuenta que 
+         los valores del lado izquierdo estan incluidos y los del derecho excluidos, por ejemplo 1
+         (el uno esta incluido)-9(el nueve excluido)
+
+- Lista: 
+
+- Hash: 
 */
 
-
+-- el big serial se usa para tener mayor capacidad en la tabla, por ejemplo en tablas con millones de datos
 -- Tabla base
 CREATE TABLE users (
 	id BIGSERIAL,
@@ -220,6 +236,7 @@ CREATE TABLE users (
 -- particiones
 CREATE TABLE users_2020 PARTITION OF users
 FOR VALUES FROM ('2020-01-01') TO ('2021-01-01');
+--user_2020 es una particion de la tabla users
 
 CREATE TABLE users_2021 PARTITION OF users
 FOR VALUES FROM ('2021-01-01') TO ('2022-01-01');
