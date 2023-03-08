@@ -1,0 +1,17 @@
+DESCARGAMOS NORTHWITH
+
+Ahora que tenemos el zip, lo descomprimimos. creamos la base de datos en pg admin.
+
+Luego abrimos un terminal en el cmd y ejecutamos lo siguiente:
+
+psql -u postgres -d northwind < northwind.sql
+
+abrimos una nueva conexion con northwind
+
+--comandos para ver tamaño de tablas
+SELECT PG_SIZE_PRETTY(pg_database_size('northwind')); --este comando nos dice cuanto pesa la base de datos
+
+SELECT pg_database.datname, pg_size_pretty(pg_database_size(pg_database.datname)) as size FROM pg_database;
+--con este ultimo comando hacemos una consulta a una tabla especial de la instalacion de postgres
+-- por un lado sacaremos el nombre de la base de datos y su tamaño
+
