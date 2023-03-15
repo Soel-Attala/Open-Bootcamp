@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\bin\Debug\net6.0\Ejercicio-4.3.exe
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\bin\Debug\net6.0\Ejercicio-4.3.deps.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\bin\Debug\net6.0\Ejercicio-4.3.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\bin\Debug\net6.0\Ejercicio-4.3.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\bin\Debug\net6.0\Ejercicio-4.3.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\refint\Ejercicio-4.3.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\Ejercicio-4.3.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-4.3\obj\Debug\net6.0\ref\Ejercicio-4.3.dll
