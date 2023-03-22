@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\bin\Debug\net6.0\Ejercicio-5.exe
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\bin\Debug\net6.0\Ejercicio-5.deps.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\bin\Debug\net6.0\Ejercicio-5.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\bin\Debug\net6.0\Ejercicio-5.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\bin\Debug\net6.0\Ejercicio-5.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\refint\Ejercicio-5.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\Ejercicio-5.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Trabajos Practicos\Ejercicio-5\Ejercicio-5\obj\Debug\net6.0\ref\Ejercicio-5.dll
