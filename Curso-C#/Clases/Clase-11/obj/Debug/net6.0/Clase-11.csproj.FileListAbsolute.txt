@@ -1,0 +1,15 @@
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\bin\Debug\net6.0\Clase-11.exe
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\bin\Debug\net6.0\Clase-11.deps.json
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\bin\Debug\net6.0\Clase-11.runtimeconfig.json
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\bin\Debug\net6.0\Clase-11.dll
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\bin\Debug\net6.0\Clase-11.pdb
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.csproj.AssemblyReference.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.AssemblyInfoInputs.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.AssemblyInfo.cs
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.csproj.CoreCompileInputs.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.dll
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\refint\Clase-11.dll
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.pdb
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\Clase-11.genruntimeconfig.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Open-Bootcamp\Curso-C#\Clases\Clase-11\obj\Debug\net6.0\ref\Clase-11.dll
