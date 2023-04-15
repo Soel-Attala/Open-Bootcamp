@@ -1,0 +1,15 @@
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\bin\Debug\net6.0\Clase-10.exe
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\bin\Debug\net6.0\Clase-10.deps.json
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\bin\Debug\net6.0\Clase-10.runtimeconfig.json
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\bin\Debug\net6.0\Clase-10.dll
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\bin\Debug\net6.0\Clase-10.pdb
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.csproj.AssemblyReference.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.AssemblyInfoInputs.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.AssemblyInfo.cs
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.csproj.CoreCompileInputs.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.dll
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\refint\Clase-10.dll
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.pdb
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\Clase-10.genruntimeconfig.cache
+C:\Users\soela\Desktop\Open-Bootcamp\Clase-10\obj\Debug\net6.0\ref\Clase-10.dll
