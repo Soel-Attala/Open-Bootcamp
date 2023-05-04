@@ -1,0 +1,3 @@
+Hello, im a text file.
+How are you?
+We have a lovely weather today

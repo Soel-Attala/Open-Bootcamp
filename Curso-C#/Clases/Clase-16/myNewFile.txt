@@ -1,0 +1,4 @@
+Hello, im a new text file
+this is my second line my name is myNewFile.txt
+Im adding a new line
+this is an append operation
