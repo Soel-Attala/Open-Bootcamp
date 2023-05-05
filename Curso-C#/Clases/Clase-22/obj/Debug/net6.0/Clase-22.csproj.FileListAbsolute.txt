@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\bin\Debug\net6.0\Clase-22.exe
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\bin\Debug\net6.0\Clase-22.deps.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\bin\Debug\net6.0\Clase-22.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\bin\Debug\net6.0\Clase-22.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\bin\Debug\net6.0\Clase-22.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\refint\Clase-22.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\Clase-22.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-22\obj\Debug\net6.0\ref\Clase-22.dll
