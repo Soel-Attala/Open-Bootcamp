@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\bin\Debug\net6.0\Clase-19.exe
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\bin\Debug\net6.0\Clase-19.deps.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\bin\Debug\net6.0\Clase-19.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\bin\Debug\net6.0\Clase-19.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\bin\Debug\net6.0\Clase-19.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\refint\Clase-19.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\Clase-19.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-19\obj\Debug\net6.0\ref\Clase-19.dll
