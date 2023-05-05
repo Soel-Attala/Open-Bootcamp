@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-22", "Clase-22.csproj", "{7E5AAB39-2472-40E1-9E1A-97D67DFD34C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates.csproj", "{7E5AAB39-2472-40E1-9E1A-97D67DFD34C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "..\Clase-22.2\Indexers.csproj", "{7C108C93-6E85-4ECE-BD92-CDC14A5FABDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "..\Clase-22.2\Iterators\Iterators.csproj", "{840C2E36-49BC-4C66-B74E-F07D94F8B5DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{7E5AAB39-2472-40E1-9E1A-97D67DFD34C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E5AAB39-2472-40E1-9E1A-97D67DFD34C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E5AAB39-2472-40E1-9E1A-97D67DFD34C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C108C93-6E85-4ECE-BD92-CDC14A5FABDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C108C93-6E85-4ECE-BD92-CDC14A5FABDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C108C93-6E85-4ECE-BD92-CDC14A5FABDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C108C93-6E85-4ECE-BD92-CDC14A5FABDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840C2E36-49BC-4C66-B74E-F07D94F8B5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840C2E36-49BC-4C66-B74E-F07D94F8B5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840C2E36-49BC-4C66-B74E-F07D94F8B5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840C2E36-49BC-4C66-B74E-F07D94F8B5DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
