@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\bin\Debug\net6.0\Design Patterns.exe
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\bin\Debug\net6.0\Design Patterns.deps.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\bin\Debug\net6.0\Design Patterns.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\bin\Debug\net6.0\Design Patterns.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\bin\Debug\net6.0\Design Patterns.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\refint\Design Patterns.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\Design Patterns.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\Curso-C#\Clases\Clase-24\obj\Debug\net6.0\ref\Design Patterns.dll

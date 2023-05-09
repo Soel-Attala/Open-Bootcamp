@@ -40,11 +40,3 @@ We have two types of design patterns:
 */
 
 
-//             -------------------- SINGLETON --------------------------  
-
-
-public sealed class Singleton //sealed sealed does not allow us to make another instance of this class.
-{
-
-}
-
