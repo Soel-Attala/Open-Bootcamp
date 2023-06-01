@@ -13,6 +13,7 @@ namespace UniversityApiBackend.Models.DataModels
 
         [Required]
         public ICollection<Course> Courses { get; set; } = new List<Course>();
-
+        [Required]
+        ICollection<User> Users { get; set; } = new List<User>();
     }
 }

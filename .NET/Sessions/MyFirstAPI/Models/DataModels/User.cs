@@ -12,5 +12,8 @@ namespace UniversityApiBackend.Models.DataModels
         public string Email { get; set; } = string.Empty;
         [Required]
         public string Password { get; set; } = string.Empty;
+
+        [Required]
+        public ICollection<Student> Students { get; set; } = new List<Student>();
     }
 }
