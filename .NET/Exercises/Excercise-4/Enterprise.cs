@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-namespace LINQ_Snippet
+namespace Excercise_4
 {
     public class Enterprise
     {

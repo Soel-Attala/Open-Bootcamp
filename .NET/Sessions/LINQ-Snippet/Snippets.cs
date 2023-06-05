@@ -194,7 +194,7 @@ namespace LINQ_Snippet
 
             //All enterprises at least has an employee with more than 1000 of salary
             bool hasEmployeeWithSalaryMoreThan1000 =
-                enterprises.Any(enterprise => enterprise.Employees.Any(employee => employee.Salary >= 1000);
+                enterprises.Any(enterprise => enterprise.Employees.Any(employee => employee.Salary >= 1000));
 
         }
 
@@ -214,8 +214,8 @@ namespace LINQ_Snippet
             var commonResult2 = firstList.Join(
                                 secondList,
                                 element => element,
-                                secondElement => secondElement
-                                (secondElement, secondElement) => new { element, secondElement }
+                                secondElement => secondElement,
+                                (element, secondElement) => new { element, secondElement }
                                 );
 
             //OUTER JOIN - LEFT
