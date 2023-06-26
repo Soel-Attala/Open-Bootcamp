@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\bin\Debug\net6.0\Excercise-Library.deps.json
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\bin\Debug\net6.0\Excercise-Library.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\bin\Debug\net6.0\Excercise-Library.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\Excercise-Library.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\Excercise-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\Excercise-Library.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\Excercise-Library.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\Excercise-Library.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\Excercise-Library.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\refint\Excercise-Library.dll
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\Excercise-Library.pdb
+C:\Users\Usuario\Desktop\Programación\Open-Bootcamp\.NET\Exercises\Excercise-Library\obj\Debug\net6.0\ref\Excercise-Library.dll

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using UniversityApiBackend.DataAccess;
 using UniversityApiBackend.Models.DataModels;
+using UniversityApiBackend.Services;
 
 namespace UniversityApiBackend.Controllers
 {
@@ -16,19 +17,23 @@ namespace UniversityApiBackend.Controllers
     {
         private readonly UniversityContext _context;
 
-        public StudentsController(UniversityContext context)
+        //services
+        private readonly IStudentServices _studentServices;
+
+        public StudentsController(UniversityContext context, IStudentServices studentServices)
         {
             _context = context;
+            _studentServices = studentServices;
         }
 
         // GET: api/Students
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Student>>> GetStudents()
         {
-          if (_context.Students == null)
-          {
-              return NotFound();
-          }
+            if (_context.Students == null)
+            {
+                return NotFound();
+            }
             return await _context.Students.ToListAsync();
         }
 
@@ -36,10 +41,10 @@ namespace UniversityApiBackend.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Student>> GetStudent(int id)
         {
-          if (_context.Students == null)
-          {
-              return NotFound();
-          }
+            if (_context.Students == null)
+            {
+                return NotFound();
+            }
             var student = await _context.Students.FindAsync(id);
 
             if (student == null)
@@ -86,10 +91,10 @@ namespace UniversityApiBackend.Controllers
         [HttpPost]
         public async Task<ActionResult<Student>> PostStudent(Student student)
         {
-          if (_context.Students == null)
-          {
-              return Problem("Entity set 'UniversityContext.Students'  is null.");
-          }
+            if (_context.Students == null)
+            {
+                return Problem("Entity set 'UniversityContext.Students'  is null.");
+            }
             _context.Students.Add(student);
             await _context.SaveChangesAsync();
 
